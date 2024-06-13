@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AppNotes/static/css/main.0a82be2f.css",
+    "main.js": "/AppNotes/static/js/main.a64004bb.js",
+    "static/js/453.cf291aa0.chunk.js": "/AppNotes/static/js/453.cf291aa0.chunk.js",
+    "index.html": "/AppNotes/index.html",
+    "main.0a82be2f.css.map": "/AppNotes/static/css/main.0a82be2f.css.map",
+    "main.a64004bb.js.map": "/AppNotes/static/js/main.a64004bb.js.map",
+    "453.cf291aa0.chunk.js.map": "/AppNotes/static/js/453.cf291aa0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a82be2f.css",
+    "static/js/main.a64004bb.js"
+  ]
+}
